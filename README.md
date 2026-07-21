@@ -57,6 +57,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### brute force
+<details>
+<summary>Click to expand brute force problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 300A | [Array](./Codeforces/brute%20force/Array/) | 1100 |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>

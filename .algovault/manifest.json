@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-21T17:28:49.845Z",
+  "lastUpdated": "2026-07-21T17:31:43.705Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -91,6 +91,29 @@
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        }
+      }
+    },
+    "codeforces": {
+      "submissions": {
+        "array": {
+          "questionId": "300A",
+          "title": "Array",
+          "titleSlug": "array",
+          "difficulty": "1100",
+          "tags": [
+            "brute force",
+            "constructive algorithms",
+            "implementation"
+          ],
+          "solutions": {
+            "pypy 3-64": {
+              "syncedAt": 1784655103705,
+              "runtime": "124 ms",
+              "memory": "0.00 MB",
+              "githubPath": "Codeforces/brute force/Array/"
             }
           }
         }
