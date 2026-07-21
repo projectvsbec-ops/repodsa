@@ -1,0 +1,100 @@
+{
+  "version": "3.0.0",
+  "lastUpdated": "2026-07-21T17:28:49.845Z",
+  "platforms": {
+    "leetcode": {
+      "submissions": {
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784654929845,
+              "runtime": "8 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
+            }
+          }
+        },
+        "reverse-integer": {
+          "questionId": "7",
+          "title": "Reverse Integer",
+          "titleSlug": "reverse-integer",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784654929845,
+              "runtime": "49 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Math/Reverse Integer/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784654929845,
+              "runtime": "11 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "two-sum": {
+          "questionId": "1",
+          "title": "Two Sum",
+          "titleSlug": "two-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784654929845,
+              "runtime": "1733 ms",
+              "memory": "19.7 MB",
+              "githubPath": "LeetCode/Array/Two Sum/"
+            }
+          }
+        },
+        "add-two-numbers": {
+          "questionId": "2",
+          "title": "Add Two Numbers",
+          "titleSlug": "add-two-numbers",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Math",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784654929845,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Linked List/Add Two Numbers/"
+            }
+          }
+        }
+      }
+    }
+  }
+}
