@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-21T17:31:43.705Z",
+  "lastUpdated": "2026-07-21T17:39:28.141Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -93,8 +93,28 @@
               "githubPath": "LeetCode/Linked List/Add Two Numbers/"
             }
           }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "python3": {
+              "syncedAt": 1784655568141,
+              "runtime": "5162 ms",
+              "memory": "19.2 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
         }
-      }
+      },
+      "username": "1nSRGPtnb4"
     },
     "codeforces": {
       "submissions": {
